@@ -1,0 +1,17 @@
+{
+    "name": "andres/otro-php-firebase",
+    "description": "Php FireBase",
+    "type": "project",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "ANDRES JEJEN",
+            "email": "gajcam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "4.17.0",
+        "php": ">= 7.2.0"
+    }
+}
